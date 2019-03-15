@@ -1,0 +1,40 @@
+#homepage{
+    background: url('../images/background.jpg') no-repeat fixed;
+    -webkit-background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    background-size: 100% 100%;
+}
+
+.welcome{
+    margin-top: 10%;
+}
+
+.welcome hr{
+    background-color: red;
+}
+
+.welcome h2{
+    color: white;
+    font-size: 3em;
+    text-align: center;
+}
+
+.welcome h4{
+    color: white;
+    font-size: 2.5em;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* .prestasi img{
+    transform:          rotate(270deg);
+-ms-transform:      rotate(270deg);
+-moz-transform:     rotate(270deg);
+-webkit-transform:  rotate(270deg);
+-o-transform:       rotate(270deg);
+} */
+
+.prestasi{
+    color: white;
+}
